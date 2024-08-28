@@ -29,6 +29,9 @@ Sentimenter is a web application for performing sentiment analysis on restaurant
 - **Main Webpage**: The main webpage provides options for analyzing sentences or uploading TSV files.
 
   ![Main Webpage](path/to/main_webpage_image.png)  <!-- Add your image here -->
+  <img width="1440" alt="Screenshot 2024-08-28 at 7 15 07 PM" src="https://github.com/user-attachments/assets/d2ee5edd-2275-4315-abc9-0a34bfd84249">
+<img width="1440" alt="Screenshot 2024-08-28 at 7 15 07 PM" src="https://github.com/user-attachments/assets/eb8e3549-ce59-4406-b8e5-067c627cc2c6">
+
 
 ## Dependencies
 
