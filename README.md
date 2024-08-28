@@ -17,18 +17,12 @@ Sentimenter is a web application for performing sentiment analysis on restaurant
 - `templates/`: Contains HTML templates for rendering the web pages.
 
 ## Usage
+- **Main Webpage**: The main webpage provides options for analyzing sentences or uploading TSV files.
 
 - **Analyze a Sentence**: Enter a sentence in the provided text input and click "Analyze" to see the sentiment.
   
-  ![Sentence Analysis](path/to/sentence_analysis_image.png)  <!-- Add your image here -->
-
+ 
 - **Upload a TSV File**: Choose a TSV file containing reviews and click "Upload" to process and view the sentiment analysis results.
-
-  ![TSV Upload](path/to/tsv_upload_image.png)  <!-- Add your image here -->
-
-- **Main Webpage**: The main webpage provides options for analyzing sentences or uploading TSV files.
-
-  ![Main Webpage](path/to/main_webpage_image.png)  <!-- Add your image here -->
 <img width="1440" alt="Screenshot 2024-08-28 at 7 15 21 PM" src="https://github.com/user-attachments/assets/7a2c6cd9-da3a-4bf3-88ac-86c225a959f7">
 
 
